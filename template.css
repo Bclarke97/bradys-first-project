@@ -1,5 +1,5 @@
 .Test{
-    background-color: #f1f1f1; /* Light grey matching table hover */
+    background-color: #333321; /* Light grey matching table hover */
     color: #424242;           /* Dark grey text for contrast */
     border-radius: 5px;        /* Rounded corners */
     padding: 10px 15px;        /* Add padding for a larger click area */
@@ -7,5 +7,6 @@
 }
 .Test h1 {
     font-size: 22px;
-    color: #ffffff;
+    color: #974797e0;
+
 }
